@@ -1,8 +1,8 @@
 import React, { Suspense, StrictMode, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import './index.css';
-import Loader from './components/loader';
-import Navbar from './components/navbar';
+import Loader from './components/Loader';
+import Navbar from './components/Navbar';
 const PlansPricing = React.lazy(() => import('./PlansPricing'));
 const Home = React.lazy(() => import('./Home'));
 const Services = React.lazy(() => import('./Services'));
