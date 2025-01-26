@@ -42,7 +42,7 @@ const Home = () => {
               </a>
             </span>
             <span className='p-1 text-[#E1306C] hover:text-pink-500 hover:scale-125 transition duration-200 '>
-              <a href='https://www.instagram.com/h2creations.web/' target="_blank" rel="noopener noreferrer" aria-label="Visit our Instagram profile">
+              <a href='https://www.instagram.com/h2creations.in/' target="_blank" rel="noopener noreferrer" aria-label="Visit our Instagram profile">
                 <Instagram />
               </a>
             </span>
