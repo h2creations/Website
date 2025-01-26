@@ -121,7 +121,7 @@ const ContactUs = ({ selectedPlan }) => {
                             rel="noopener noreferrer"
                             className="text-teal-400 hover:underline"
                         >
-                            Instagram
+                             Instagram
                         </a>
                         .
                     </p>
