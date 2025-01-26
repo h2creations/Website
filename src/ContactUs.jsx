@@ -116,7 +116,7 @@ const ContactUs = ({ selectedPlan }) => {
                         </a>
                         , and{' '}
                         <a
-                            href='https://www.instagram.com/h2creations.web/' 
+                            href='https://www.instagram.com/h2creations.in/' 
                             target="_blank"
                             rel="noopener noreferrer"
                             className="text-teal-400 hover:underline"
