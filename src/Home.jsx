@@ -58,6 +58,8 @@ const Home = () => {
         animate={{ x: 0, opacity: 1 }}
         loading="lazy"
         transition={{ duration: 2.5, ease: "easeIn", delay: 0.5 }}
+        width="500"
+        height="300"
       />
       {visibility_scroll && <div
         className="hidden fixed bottom-8 left-1/2 transform -translate-x-1/2 md:flex flex-col items-center space-y-2" aria-label="Scroll down indicator" >
