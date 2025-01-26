@@ -56,6 +56,7 @@ const Home = () => {
         alt="Digital journey representation"
         initial={{ x: 300, opacity: 0 }}
         animate={{ x: 0, opacity: 1 }}
+        loading="lazy"
         transition={{ duration: 2.5, ease: "easeIn", delay: 0.5 }}
       />
       {visibility_scroll && <div
